@@ -138,3 +138,10 @@
 	border-color: #007fff;
 	transition: ease 0.25s;
 }
+
+@media screen and ( max-width: 620px) {
+	.inner-container{
+		margin: 0;
+		padding: 0;
+	}
+}
