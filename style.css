@@ -124,6 +124,9 @@
 	border-color: #9d9ea0;
 	transition: ease 0.2s;
 }
+.checkbox-icon:focus ~ .sub-menu{
+	outline: 1px solid red;
+} 
 
 .checkbox-icon:active,
 .show--all:active,
